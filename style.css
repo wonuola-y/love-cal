@@ -1,0 +1,14 @@
+input, p, i{
+    margin-left: 1em;
+}
+button{
+    border: none;
+    background-color: pink;
+}
+.container{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
